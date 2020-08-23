@@ -32,6 +32,35 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="RunManager">
+    <configuration name="lenet" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LearningDL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearningGettingStarted" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearningGettingStarted/lenet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.lenet" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -59,7 +88,9 @@
       <workItem from="1594212838564" duration="5435000" />
       <workItem from="1594354644264" duration="3197000" />
       <workItem from="1594403613475" duration="976000" />
-      <workItem from="1594459508947" duration="919000" />
+      <workItem from="1594459508947" duration="1213000" />
+      <workItem from="1594462908024" duration="1684000" />
+      <workItem from="1598184059495" duration="201000" />
     </task>
     <servers />
   </component>
@@ -71,9 +102,28 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="704" y="297" width="501" height="513" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1594111556162" />
+    <state width="1874" height="278" key="GridCell.Tab.0.bottom" timestamp="1594460445191">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1594460445191" />
+    <state width="1874" height="278" key="GridCell.Tab.0.center" timestamp="1594460445189">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1594460445189" />
+    <state width="1874" height="278" key="GridCell.Tab.0.left" timestamp="1594460445188">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1594460445188" />
+    <state width="1874" height="278" key="GridCell.Tab.0.right" timestamp="1594460445190">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1594460445190" />
     <state x="449" y="188" key="SettingsEditor" timestamp="1594111782874">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="449" y="188" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1594111782874" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LearningDL$lenet.coverage" NAME="lenet Coverage Results" MODIFIED="1594460438260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearningGettingStarted" />
   </component>
 </project>
